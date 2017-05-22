@@ -1,6 +1,7 @@
-# rotation-map
-
-> my first vue project
+轮播图管理系统
+===
+# 说明
+> 这是我的第一个vue学习项目，项目功能是参考百度前端学院题目后空想处来的。http://ife.baidu.com/2016/task/detail?taskId=50
 
 ## Build Setup
 
