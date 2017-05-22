@@ -2,9 +2,9 @@
 ====
 
 ## 说明
-> 这是我的第一个vue学习项目，项目功能是参考百度前端学院题目后空想处来的，虽然说不上复杂，却也算跨入了半个门了吧.
->除了入口组件App外，总共有8个组件.
->从阅读Vue官方说明文档到完成项目总花时大概10天左右. 
+> 这是我的第一个vue学习项目，项目功能是参考百度前端学院题目后空想处来的，虽然说不上复杂，却也算跨入了半个门了吧.</br>
+>除了入口组件App外，总共有8个组件.</br>
+>从阅读Vue官方说明文档到完成项目总花时大概10天左右.</br> 
 >项目来源：http://ife.baidu.com/2016/task/detail?taskId=50 </br>
 
 ## 技术
@@ -27,5 +27,3 @@
   $ npm install
   $ npm run dev
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
