@@ -1,7 +1,10 @@
 轮播图管理系统
-===
-# 说明
-> 这是我的第一个vue学习项目，项目功能是参考百度前端学院题目后空想处来的。http://ife.baidu.com/2016/task/detail?taskId=50
+====
+## 说明
+> 这是我的第一个vue学习项目，项目功能是参考百度前端学院题目后空想处来的。项目来源：http://ife.baidu.com/2016/task/detail?taskId=50 </br>
+>* 数据存储在本地localstorage.
+>* 轮播图预览效果使用Vue的过渡效果.
+
 
 ## Build Setup
 
