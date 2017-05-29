@@ -6,6 +6,7 @@
 >除了入口组件App外，总共有8个组件.</br>
 >从阅读Vue官方说明文档到完成项目总花时大概10天左右.</br> 
 >项目来源：http://ife.baidu.com/2016/task/detail?taskId=50 </br>
+>在线DEMO：http://yangshaw.cn/Resources/Rotation%20system/index.html#/
 
 ## 技术
 >* 应用：Vue、Vue-Router、Vue-Cli.
